@@ -1,0 +1,5 @@
+{
+  "note": "No release published yet. An empty manifest is the well-defined 'nothing to update' state: the client refuses it and changes nothing. Replaced by a signed envelope at the first release.",
+  "manifest": "",
+  "sig": ""
+}
